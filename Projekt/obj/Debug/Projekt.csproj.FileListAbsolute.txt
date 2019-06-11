@@ -1,0 +1,73 @@
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\MainWindow.g.cs
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\App.g.cs
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\Projekt_MarkupCompile.cache
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\Projekt_MarkupCompile.lref
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\MainWindow.baml
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\Projekt.g.resources
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\bin\Debug\Projekt.exe
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\bin\Debug\Projekt.pdb
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\MainWindow.g.cs
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\App.g.cs
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt_MarkupCompile.cache
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt_MarkupCompile.lref
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\MainWindow.baml
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.g.resources
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.exe
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.pdb
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.Resource1.resources
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\DisplayWindow.g.cs
+C:\Users\vmadmin\Desktop\M120 & M226B Projekt\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\DisplayWindow.baml
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\bin\Debug\Projekt.exe.config
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\bin\Debug\Projekt.exe
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\bin\Debug\Projekt.pdb
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\DisplayWindow.g.cs
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Edit.g.cs
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\MainWindow.g.cs
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\App.g.cs
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt_MarkupCompile.cache
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt_MarkupCompile.lref
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\DisplayWindow.baml
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\MainWindow.baml
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Edit.baml
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.g.resources
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.Resource1.resources
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.exe
+E:\Schule\LINO DU KEK\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\bin\Debug\Projekt.exe
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\DisplayWindow.g.cs
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Edit.g.cs
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt_MarkupCompile.cache
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt_MarkupCompile.lref
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\DisplayWindow.baml
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Edit.baml
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.g.resources
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.Resource1.resources
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.exe
+C:\Users\Admin\Desktop\M120-GUI_Projekt-Filmsammlung\Projekt\obj\Debug\Projekt.pdb
